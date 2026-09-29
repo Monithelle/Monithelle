@@ -21,6 +21,9 @@ Sistema web para criação e gerenciamento de planos de aula em ambiente multi-e
 ### 🎨 Pigmenta Tintas
 Projeto web de uma loja de tintas com catálogo, filtros, simulador de cores e calculadora.
 
+### 🐾 Casa de Rações
+Sistema web para gerenciamento de estoque de uma casa de rações, com cadastro de produtos, controle de entradas e saídas, acompanhamento de estoque e área administrativa protegida.
+
 ### 💜 Portfólio pessoal
 Meu portfólio com projetos, tecnologias e informações sobre minha trajetória.
 
