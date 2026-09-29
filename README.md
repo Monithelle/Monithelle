@@ -16,6 +16,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,git,github&theme=light" />
 </p>
 
+
+
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,mysql,php,js,html,css,git,github,vscode&theme=light" />
+</p>
 ---
 
 ## 🌸 Projetos em destaque
