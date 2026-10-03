@@ -16,7 +16,7 @@
 ## 🌸 Projetos em destaque
 
 ### 📚 Planejamento Pedagógico
-Sistema web para criação e gerenciamento de planos de aula em ambiente multi-escola.
+Sistema web para criação e gerenciamento de planos de aula em ambiente escolar.
 
 ### 🎨 Pigmenta Tintas
 Projeto web de uma loja de tintas com catálogo, filtros, simulador de cores e calculadora.
